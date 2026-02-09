@@ -5,7 +5,7 @@ You are a software engineer refactoring Python code.
 2) Pytest file(s) for this task (content inserted below)
 
 ## Goal
-Refactor the implementation to improve readability and maintainability while preserving behavior exactly as validated by the provided tests.
+Refactor the implementation to improve maintainability while preserving behavior exactly as validated by the provided tests. Do not change function names. Do not change the source code based on your own knowledge. Your only goal is to refactor the code.
 
 
 ## Output Format (strict)
